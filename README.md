@@ -14,6 +14,10 @@ Lucien is a simple emotional detection program that identifies basic emotions fr
 - Add more emotions
 - Build an interactive interface
 
+
+## Initial Flowchart
+
+![Flowchart](images/flowchart_v1.jpg)
 ---
 
 This is version 1 of a bigger vision: creating AI that understands and supports human emotions.
